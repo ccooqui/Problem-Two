@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-color: pink;
+}
+
+button {
+  border: none;
+}
+
+.Btn {
+  background-color: aquamarine;
+  width:25%;
+  height: 30%;
+  transition:.5s;
+}
+.Btn:hover {
+  background-color: #53c9ae;
+}
+
+.OpBtn {
+  background-color: darkcyan;
+  flex-basis: 25%;
+  transition:.5s;
+}
+
+.OpBtn:hover {
+  background-color: #156063;
+}
+
+.result {
+  height: 20%;
+}
+
+.controlGrid {
+  height: 80%;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+  background-color: blue;
+}
