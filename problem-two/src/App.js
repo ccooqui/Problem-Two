@@ -166,6 +166,7 @@ class App extends Component {
         }
         else if (value === "=") {
             switch (this.state.selectedOperation) {
+                default: break;
                 case "+":
                     // Calculate the sum
                     let sum = "";

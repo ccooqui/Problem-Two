@@ -21,7 +21,7 @@ function multiply(a, b) {
 function divide(a, b) {
     a = parseFloat(a);
     b = parseFloat(b);
-    if (b === 0) { throw "undefined";}
+    if (b === 0) { throw Object.assign(new Error("undefined"));}
     return (a/b).toString();
 }
 
@@ -41,6 +41,7 @@ function percent (a, b, op) {
     else {
         let percentage = (b/100);
         switch (op) {
+            default: break;
             case "+":
                 return addition(a, a*percentage).toString();
             case "-":
