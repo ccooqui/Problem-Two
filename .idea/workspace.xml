@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00d3eb93-be57-4283-8216-100fbb47b50e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem-two/src/Calculator-Type/standard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-two/src/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-two/src/components/Controls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-two/src/functionality/Operations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-two/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem-two/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-two/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/problem-two/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-two/src/components/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem-two/src/components/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-two/src/functionality/Operations.js" beforeDir="false" afterPath="$PROJECT_DIR$/problem-two/src/functionality/Operations.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,9 +52,9 @@
         <counts>
           <entry key="css" value="25" />
           <entry key="html" value="10" />
-          <entry key="js" value="6457" />
+          <entry key="js" value="9055" />
           <entry key="json" value="12" />
-          <entry key="scss" value="715" />
+          <entry key="scss" value="1860" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -60,19 +62,19 @@
           <entry key="CSS" value="25" />
           <entry key="HTML" value="10" />
           <entry key="JSON" value="12" />
-          <entry key="JavaScript" value="6457" />
-          <entry key="SCSS" value="715" />
+          <entry key="JavaScript" value="9055" />
+          <entry key="SCSS" value="1860" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problem-two/src/App.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="2024">
+              <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -80,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problem-two/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="156" column="36" selection-start-line="156" selection-start-column="36" selection-end-line="156" selection-end-column="36" />
+            <state relative-caret-position="368">
+              <caret line="97" column="83" selection-start-line="97" selection-start-column="83" selection-end-line="97" selection-end-column="83" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -92,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problem-two/src/functionality/Operations.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+            <state relative-caret-position="-1">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -101,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problem-two/src/components/Button.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="16" column="100" selection-start-line="16" selection-start-column="100" selection-end-line="16" selection-end-column="100" />
+            <state relative-caret-position="230">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -131,7 +133,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problem-two/src/index.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -165,9 +167,9 @@
         <option value="$PROJECT_DIR$/problem-two/src/Calculator-Type/standard.json" />
         <option value="$PROJECT_DIR$/problem-two/src/Calculator-Type/standard.js" />
         <option value="$PROJECT_DIR$/problem-two/src/components/Controls.js" />
+        <option value="$PROJECT_DIR$/problem-two/src/index.css" />
         <option value="$PROJECT_DIR$/problem-two/src/components/Button.js" />
         <option value="$PROJECT_DIR$/problem-two/src/functionality/Operations.js" />
-        <option value="$PROJECT_DIR$/problem-two/src/index.css" />
         <option value="$PROJECT_DIR$/problem-two/src/App.js" />
         <option value="$PROJECT_DIR$/problem-two/src/App.scss" />
       </list>
@@ -188,8 +190,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
+    <option name="x" value="949" />
     <option name="width" value="980" />
     <option name="height" value="1031" />
   </component>
@@ -283,18 +284,18 @@
       <workItem from="1561560235818" duration="600000" />
       <workItem from="1561915699834" duration="3800000" />
       <workItem from="1561924604196" duration="23983000" />
-      <workItem from="1562253483851" duration="26843000" />
+      <workItem from="1562253483851" duration="47841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55226000" />
+    <option name="totallyTimeSpent" value="76224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26550078" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10572337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -306,7 +307,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.33333334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -383,30 +384,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem-two/src/components/Controls.js">
+    <entry file="file://$PROJECT_DIR$/problem-two/src/App.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="2024">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-two/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="97" column="83" selection-start-line="97" selection-start-column="83" selection-end-line="97" selection-end-column="83" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem-two/src/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/problem-two/src/functionality/Operations.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        <state relative-caret-position="-1">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problem-two/src/components/Button.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="16" column="100" selection-start-line="16" selection-start-column="100" selection-end-line="16" selection-end-column="100" />
+        <state relative-caret-position="230">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -420,22 +425,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem-two/src/App.js">
+    <entry file="file://$PROJECT_DIR$/problem-two/src/components/Controls.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="156" column="36" selection-start-line="156" selection-start-column="36" selection-end-line="156" selection-end-column="36" />
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="24" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem-two/src/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/problem-two/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

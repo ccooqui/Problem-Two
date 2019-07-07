@@ -2,41 +2,88 @@
   text-align: center;
   height: 100%;
   width: 100%;
-  background-color: pink;
+  background-color: white;
 }
-
-button {
-  border: none;
-}
-
-.Btn {
-  background-color: aquamarine;
-  width:25%;
-  height: 30%;
-  transition:.5s;
-}
-.Btn:hover {
-  background-color: #53c9ae;
-}
-
-.OpBtn {
-  background-color: darkcyan;
-  flex-basis: 25%;
-  transition:.5s;
-}
-
-.OpBtn:hover {
-  background-color: #156063;
-}
-
+//Result styling
 .result {
   height: 20%;
+  text-align: right;
+  padding: 0;
 }
-
+//Style for text component of result
+.result p {
+  width: 90%;
+  white-space: nowrap;
+  overflow: hidden;
+  vertical-align: baseline;
+  padding-right: 5vw;
+  font-size: 4.3rem;
+  font-weight: 300;
+  text-overflow: ellipsis;
+  margin: 0;
+}
+//Grid for buttons
 .controlGrid {
   height: 80%;
+  width: 100%;
   display: flex;
-  flex-flow: row wrap;
-  align-items: stretch;
-  background-color: blue;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex: 1 0 auto;
+}
+//style for div containing button in grid
+.controlButton {
+  display: inline-flex;
+  width: 25%;
+  flex: 1 0 auto;
+}
+//main style for button element
+button {
+  border: none;
+  font-size: 1.7rem;
+  font-weight: 200;
+  flex: 1 0 auto;
+  padding: 0;
+  color: white;
+}
+
+// Styles for number buttons
+.numBtn {
+  background-color: #243b5d;
+  color: #bfd4f9;
+  transition: .5s;
+}
+.numBtn:hover {
+  background-color: #3a5781;
+}
+
+// Styles for operation buttons
+.OpBtn {
+  background-color: #90bdff;
+  transition: .5s;
+}
+.OpBtn:hover {
+  background-color: #a7cbff;
+}
+
+// Changes styling of result button
+.controlGrid :last-child button {
+  background-color: #5888cd;
+}
+.controlGrid :last-child button:hover {
+  background-color: #496fae;
+}
+
+// Changes styling for top operation buttons
+.controlGrid :nth-child(-n+3) button {
+  background-color: #304c76;
+  color: #bfd4f9;
+}
+.controlGrid :nth-child(-n+3) button:hover {
+  background-color: #416499;
+}
+
+// Makes 3rd to last button double the size to fit screen
+.controlGrid :nth-last-child(3) {
+  width: 50%;
 }
