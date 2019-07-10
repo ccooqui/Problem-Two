@@ -160,7 +160,10 @@ class App extends Component {
                 });
             } else {
                 // If operation is already selected set percent flag to true
-                this.setState({percentFlag: true});
+                this.setState({
+                    result: this.state.result + "%",
+                    percentFlag: true
+                });
             }
 
         }
